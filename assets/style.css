@@ -1,0 +1,91 @@
+div {
+    position: relative;
+  }
+  
+svg {
+    position: absolute;
+    margin-left: auto 0;
+}
+body {
+    background-color: #efefef;
+    margin: 0;   
+}
+
+.container {
+    max-width: 547px;
+    min-height: 265px;
+    margin: 0 auto;
+    background-color: yellow;
+}
+
+.imgText {
+    display: block;
+    max-width: 100%;
+    margin-left: 15px;
+    margin-top: 20px;
+}
+
+.saul {
+    float:right;
+    max-width: 100%;
+    position: relative;
+    
+}
+
+h2 {
+    font-weight: 800;
+    font-size: 15px;
+    font-family: Arial, sans-serif;
+    text-transform: uppercase;
+    font-weight: normal;
+    margin-bottom: -7px;
+    margin-left: 56px;
+}
+.titleBack {
+    font-weight: bold;
+    font-size: 25px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    margin-top: 20px;
+    margin-bottom: -7px;
+    background-color: red;
+}
+.title {
+    font-weight: 800;
+    font-family: Arial, sans-serif;
+    color: white;
+    font-size: 25px;
+    text-transform: uppercase;
+    padding-top: 7px;
+    margin-left: 15px;
+    margin-top: 20px;
+    margin-bottom: -7px;
+}
+
+p {
+    font-weight: 800;
+    font-family: Arial, sans-serif;
+    text-transform: uppercase;
+    font-size: 25px;
+    margin-left: 15px;
+    color: white;
+    -webkit-text-stroke: 1px red;
+    margin-bottom: -2px;
+}
+
+hr {
+    border: none; 
+    background-color: rgb(0, 0, 0);
+    color: rgb(0, 0, 0); 
+    height: 2px; 
+    margin-inline-start: 31px;
+    margin-inline-end: 323px;
+}
+
+a{
+    margin-left: 70px;
+}
+
+audio {
+    margin-left: 50%;
+}
